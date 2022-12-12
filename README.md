@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com](https://www.frontendmentor.io/solutions/product-preview-card-component-JsINCmfq45)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://nbuylding.github.io/Frontend-Mentor/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-JsINCmfq45)
+- Live Site URL: [Add live site URL here](https://nbuylding.github.io/Frontend-Mentor/)
 
 ## My process
 
