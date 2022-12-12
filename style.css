@@ -84,7 +84,7 @@ button {
     cursor: pointer;
 }
 
-embed {
+button img {
     display: flex;
     padding-right: 1rem;
 }
