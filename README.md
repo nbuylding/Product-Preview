@@ -53,11 +53,11 @@ Concepts I'm not completely comfortable with and need to focus on are media quer
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/) - This helped to remind me how to use certain CSS tools.
-- [Example resource 2](https://www.freecodecamp.org/news/use-svg-images-in-css-html/#:~:text=SVG%20images%20can%20be%20written,element%20in%20your%20HTML%20document.&text=body%3E-,If%20you%20did%20everything%20correctly%2C%20your%20webpage%20should,exactly%20like%20the%20demo%20below.) - This article reminded me about the embed tag and how I could use it to insert the shopping cart icon into the Add to Cart button.
+- [MDN](https://developer.mozilla.org/en-US/) - This helped to remind me how to use certain CSS tools.
+- [freeCodeCamp](https://www.freecodecamp.org/news/use-svg-images-in-css-html/#:~:text=SVG%20images%20can%20be%20written,element%20in%20your%20HTML%20document.&text=body%3E-,If%20you%20did%20everything%20correctly%2C%20your%20webpage%20should,exactly%20like%20the%20demo%20below.) - This article reminded me about the embed tag and how I could use it to insert the shopping cart icon into the Add to Cart button.
 
 ## Author
 
 - Website - [Natasha B.](https://www.natashabuylding.com)
 - Frontend Mentor - [@nbuylding](https://www.frontendmentor.io/profile/nbuylding)
-- GitHub - (https://github.com/nbuylding)
+- GitHub - [My GitHub](https://github.com/nbuylding)
