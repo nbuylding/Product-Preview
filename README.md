@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-JsINCmfq45)
-- Live Site URL: [Add live site URL here](https://nbuylding.github.io/Frontend-Mentor/)
+- Live Site URL: [Add live site URL here](https://nbuylding.github.io/Product-Preview/)
 
 ## My process
 
